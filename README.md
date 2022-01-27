@@ -13,4 +13,10 @@ Directions from KCI to Panda Express
 3. Next you'll drive onto 470 East until you reach 50 South
 4. Exit off on to NW Chipman Road, take a right at the light, and the Panda Express will be on your right
 
+### Foods I Would Recommend
+- Honey Sesame Chicken
+- Sweet and Spicy Chicken
+- Steamed Rice
+- Cream Cheese Rangoons
+
 
