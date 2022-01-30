@@ -54,5 +54,6 @@ This is a table of sports that I would personally recommend that people should t
         return *this;
     }
 ```
-- [Source] (https://cp-algorithms.com/geometry/basic-geometry.html)
+- [Source](https://cp-algorithms.com/geometry/basic-geometry.html)
+
 
