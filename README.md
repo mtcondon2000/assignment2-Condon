@@ -22,4 +22,12 @@ Directions from KCI to Panda Express
 
 [AboutMe File](AboutMe.md)
 
-
+---
+## Table of Sports I'd Recommend
+This is a table of sports that I would personally recommend that people should try.
+| Name of Sport | Location    | Cost       |
+|      ---      |    ---      |  ---       |
+| Track         | Schools     | Free       |
+| Soccer        | Fields      | $30 - $100 |
+| Basketball    | Rec Centers | $30 - $100 |
+| Racketball    | Rec Centers | $30 - $100 |
