@@ -43,7 +43,7 @@ This is a table of sports that I would personally recommend that people should t
 ## Algorithm Using Code Fencing
 #### Basic Geometry
 > These algorithms are designed to solve Geometric Problems. They requires in-depth knowledge of different mathematical subjects like combinatorics, topology, algebra, differential geometry etc.
-- ![Source](https://www.geeksforgeeks.org/geometric-algorithms/)
+- [Source](https://www.geeksforgeeks.org/geometric-algorithms/)
 ``` struct point2d {
     ftype x, y;
     point2d() {}
@@ -54,4 +54,5 @@ This is a table of sports that I would personally recommend that people should t
         return *this;
     }
 ```
-![Source] (https://cp-algorithms.com/geometry/basic-geometry.html)
+- [Source] (https://cp-algorithms.com/geometry/basic-geometry.html)
+
