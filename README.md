@@ -38,3 +38,20 @@ This is a table of sports that I would personally recommend that people should t
 - *James Cameron*
 >If God is making you wait for something, expect to recieve more than you asked for.
 - *Morgan Freeman*
+
+---
+## Algorithm Using Code Fencing
+#### Basic Geometry
+> These algorithms are designed to solve Geometric Problems. They requires in-depth knowledge of different mathematical subjects like combinatorics, topology, algebra, differential geometry etc.
+- ![Source](https://www.geeksforgeeks.org/geometric-algorithms/)
+``` struct point2d {
+    ftype x, y;
+    point2d() {}
+    point2d(ftype x, ftype y): x(x), y(y) {}
+    point2d& operator+=(const point2d &t) {
+        x += t.x;
+        y += t.y;
+        return *this;
+    }
+```
+![Source] (https://cp-algorithms.com/geometry/basic-geometry.html)
