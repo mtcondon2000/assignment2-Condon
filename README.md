@@ -34,6 +34,8 @@ This is a table of sports that I would personally recommend that people should t
 
 ---
 > If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.
+>
 - *James Cameron
 > If God is making you wait for something, expect to recieve more than you asked for.
+>
 - *Morgan Freeman
